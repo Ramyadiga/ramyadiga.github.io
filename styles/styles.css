@@ -1,3 +1,10 @@
+.text-primary{
+  color:rgb(100, 89, 95) !important;
+}
+
+.mb-5{color:rgb(86, 69, 86) !important;
+}
+
 th 
 {
   vertical-align: bottom;
